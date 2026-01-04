@@ -5,6 +5,14 @@ An end-to-end, high-fidelity Machine Learning application designed to provide ac
 
 ## 🚀 Core ML Modules
 
+## 🛠️ Environment Setup
+To ensure the high-fidelity UI and ML models run correctly, please use the following setup:
+
+* **Create a Virtual Environment:**
+   ```bash
+   python -m venv venv
+   source venv/Scripts/activate  # Windows
+
 ### 1. 📈 Predictive Rating Engine (Task 1)
 * **Algorithm:** Random Forest Regressor.
 * **Logic:** Analyzes complex non-linear relationships between pricing, popularity (votes), and service cost to predict aggregate user ratings.
@@ -44,3 +52,4 @@ An end-to-end, high-fidelity Machine Learning application designed to provide ac
 1. **Clone the Project:**
    ```bash
    git clone [https://github.com/mahimasisodiya049-blip/Cognifyz_ML_Project]
+
