@@ -43,5 +43,4 @@ An end-to-end, high-fidelity Machine Learning application designed to provide ac
 
 1. **Clone the Project:**
    ```bash
-   git clone [https://github.com/your-username/restaurant-ml-suite.git](https://github.com/your-username/restaurant-ml-suite.git)
-   cd Cognifyz_Internship_Project
+   git clone [https://github.com/mahimasisodiya049-blip/Cognifyz_ML_Project]
